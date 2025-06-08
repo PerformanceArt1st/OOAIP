@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvyiP/u6c+s=",
+  "dgSpecHash": "Fh91Qas8Vjw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\Lab1\\SpaceBattle\\SpaceBattle.Lib.Tests\\SpaceBattle.Lib.Tests.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\OOAIP\\SpaceBattle\\SpaceBattle.Lib.Tests\\SpaceBattle.Lib.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
